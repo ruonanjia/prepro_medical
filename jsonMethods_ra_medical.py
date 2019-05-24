@@ -44,7 +44,7 @@ def addSeriesNum(directory):
 #%% Loop through all subjects
 
 # root directory, contains all subject folders
-root_dir  = 'Y:/R_A_PTSD/data_bids_converted'
+root_dir  = 'Y:/R_A_Medical/data_bids_converted'
 # root_dir  = 'Y:/R_A_PTSD/test'
 # type of brain imaging data to change, based on the folder name
 type2change = ['func']
